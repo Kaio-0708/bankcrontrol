@@ -28,11 +28,9 @@ Application of my knowledge in a banking system project, utilizing concepts of v
 
 ## 📂 Estrutura do Projeto
 
-```plaintext
-.
 ├── Main.java    # Classe principal contendo a lógica do sistema bancário
 
-Print of steps for using the application:
+## Print of steps for using the application:
 
 ![Captura de tela 2024-05-06 150335](https://github.com/Kaio-0708/bankcrontrol/assets/123708201/17bf34af-d19d-47bf-bb20-1f06b05b9f3b)
 ![Captura de tela 2024-05-06 150409](https://github.com/Kaio-0708/bankcrontrol/assets/123708201/d29a022e-16e2-4f99-bf89-0a58833bc97f)
